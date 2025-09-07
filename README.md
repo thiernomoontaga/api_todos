@@ -228,22 +228,6 @@ sudo kill -9 $(sudo lsof -ti :3001)
 ]
 ```
 
-## 🚀 Prochaines Étapes
-
-### **Améliorations Possibles**
-- [ ] Authentification JWT
-- [ ] Base de données SQL/NoSQL
-- [ ] Tests unitaires avec Jest
-- [ ] Documentation Swagger/OpenAPI
-- [ ] Rate limiting
-- [ ] Validation avancée avec Zod
-- [ ] Logging structuré
-
-### **Évolution Architecture**
-- [ ] Separation en routes distinctes
-- [ ] Middleware architecture
-- [ ] Conteneurisation Docker
-- [ ] Déploiement cloud
 
 ## 💡 Leçons Apprises
 
