@@ -229,7 +229,7 @@ sudo kill -9 $(sudo lsof -ti :3001)
 ```
 
 
-## 💡 Leçons Apprises
+##  Leçons Apprises
 
 1. **Node.js Natif** : Compréhension profonde du HTTP sans frameworks
 2. **Async/Await** : Maîtrise des opérations asynchrones
@@ -237,7 +237,7 @@ sudo kill -9 $(sudo lsof -ti :3001)
 4. **API Design** : Principes RESTful
 5. **Structure de Code** : Organisation modulaire
 
-## 📚 Ressources Utiles
+##  Ressources Utiles
 
 - [Documentation Node.js](https://nodejs.org/api/)
 - [HTTP Status Codes](https://httpstatuses.com/)
